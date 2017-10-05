@@ -26,3 +26,5 @@ ALEK : 665
 180 HILQDI - kreddit 240 vry6ta
 garaj 18 kvadrata
 91 kv 4ista plosth
+
+MALKO dopylnenie
